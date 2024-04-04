@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "zBKGmZIs+En0mKhZJUMvsCkzZ5RB0UD8as95jI0EDfkUOdhvh39V7M1Us1ZmIqmIzDOHeNRLgq9OpbELyfhGbg==",
+  "success": true,
+  "projectFilePath": "C:\\ProjectsVS\\DoctoresMVC\\DoctoresMVC\\DoctoresMVC.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\billy\\.nuget\\packages\\datatables.net\\2.0.3\\datatables.net.2.0.3.nupkg.sha512",
+    "C:\\Users\\billy\\.nuget\\packages\\jquery\\1.7.0\\jquery.1.7.0.nupkg.sha512",
+    "C:\\Users\\billy\\.nuget\\packages\\jquery.datatables\\1.10.15\\jquery.datatables.1.10.15.nupkg.sha512"
+  ],
+  "logs": []
+}
